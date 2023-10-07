@@ -3,6 +3,8 @@ Project Overview:
 
 The News API Project with JavaScript is a dynamic web application that leverages the power of the News API to provide real-time news updates from various sources and categories. This project serves as a valuable tool for users to stay informed about current events, trending topics, and news articles of interest.
 
+![Preview](preview.png)
+
 Project Description:
 
 In today's fast-paced world, access to up-to-date news is essential. The News API Project was created to address this need by offering a user-friendly and feature-rich platform for accessing news articles from reputable sources. This project uses JavaScript to fetch data from the News API, display news articles, and provide a seamless user experience.
